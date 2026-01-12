@@ -1,6 +1,6 @@
 # Netflix Analytics — PostgreSQL Project
 
-End‑to‑end **SQL analytics** on Netflix content data using **PostgreSQL**, covering **data cleaning**, **feature engineering**, **exploratory analysis**, and **business insights**.
+End‑to‑End **SQL analytics** on Netflix content data using **PostgreSQL**, covering **data cleaning**, **feature engineering**, **exploratory analysis**, and **business insights**.
 
 ---
 
